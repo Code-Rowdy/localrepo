@@ -1,3 +1,10 @@
 p {
     color: aqua;
 }
+
+.feature1 {
+    color: blue;
+    background-color: brown;
+    border: 2px solid red;
+    border-radius: 25%;
+}
